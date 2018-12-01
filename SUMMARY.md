@@ -9,7 +9,7 @@
   * [数据库](chapter1/shu-ju-ku.md)
     * [oracle](chapter1/shu-ju-ku/oracle.md)
   * [关于IDE](chapter1/guan-yu-ide.md)
-    * Visual Studio
+    * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
 * [游戏世界](you-xi-shi-jie.md)
   * [关于steam](guan-yu-steam.md)
   * [游戏引擎](you-xi-yin-qing.md)
@@ -18,8 +18,8 @@
       * [UE4的代码结构](you-xi-yin-qing/ue4/ue4de-dai-ma-jie-gou.md)
       * UE4的全景图分析
   * [游戏生涯](you-xi-sheng-ya.md)
-    * 单机游戏
-    * 网络游戏
+    * [单机游戏](you-xi-sheng-ya/dan-ji-you-xi.md)
+    * [网络游戏](you-xi-sheng-ya/wang-luo-you-xi.md)
 * [文学作品](wen-xue-zuo-pin.md)
 * [图形学](tu-xing-xue.md)
   * [参考文献](tu-xing-xue/can-kao-wen-xian.md)
