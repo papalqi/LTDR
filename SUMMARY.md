@@ -12,7 +12,7 @@
     * 网络游戏
 * [文学作品](wen-xue-zuo-pin.md)
 * [图形学](tu-xing-xue.md)
-  * 参考网址
+  * [参考网址](tu-xing-xue/can-kao-wang-zhi.md)
 * [计算几何](ji-suan-ji-he.md)
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
 * [常用资源](chang-yong-zi-yuan.md)
