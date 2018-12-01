@@ -2,6 +2,7 @@
 plugins:
   - splitter
 description: 记录papalqi的日常
+gitbook: 3.2.2
 ---
 
 # My Awesome Book {#papalqi}
