@@ -1,13 +1,13 @@
-# Table of contents
+# Summary
 
 * [关于我](README.md)
 * [技术日常](chapter1/README.md)
+  * [数据库](chapter1/shu-ju-ku/README.md)
+    * [oracle](chapter1/shu-ju-ku/oracle.md)
   * [语言](chapter1/yu-yan/README.md)
     * [python](chapter1/yu-yan/python/README.md)
       * [在VS中安装pyhton](chapter1/yu-yan/python/zai-vs-zhong-an-zhuang-pyhton.md)
     * [C++](chapter1/yu-yan/c++.md)
-  * [数据库](chapter1/shu-ju-ku/README.md)
-    * [oracle](chapter1/shu-ju-ku/oracle.md)
   * [关于IDE](chapter1/guan-yu-ide/README.md)
     * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
 * [游戏世界](you-xi-shi-jie/README.md)
