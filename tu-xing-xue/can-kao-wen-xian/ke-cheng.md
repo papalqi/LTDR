@@ -1,6 +1,8 @@
+# 课程资源
+
 1. [斯坦福大学交互式计算机图形学CS248](http://graphics.stanford.edu/courses/cs248-18-spring/)
 2. [斯坦福大学可视化计算系统CS348](http://graphics.stanford.edu/courses/cs348v-18-winter/)V
-3. [斯坦福大学计算机图形学：动画与仿真CS348](#)C
+3. [斯坦福大学计算机图形学：动画与仿真CS348](ke-cheng.md)C
 4. [斯坦福大学可视化计算系统CS348](http://cs348k.stanford.edu/fall18/)k
 5. [斯坦福大学游戏设计CS146/CS544](https://stanfordgamedev.weebly.com/assignments.html)
 6. [斯坦福大学数据可视化CS448B](https://magrawala.github.io/cs448b-fa18/)
@@ -13,6 +15,4 @@
 13. [普林斯顿大学图像处理的进展COS597C](http://www.cs.princeton.edu/courses/archive/fall17/cos597C/outline.html)
 14. [普林斯顿大学图形和视觉的深度学习CS302](http://www.cs.princeton.edu/courses/archive/spring17/cos598F/)
 15. [普林斯顿大学计算机图形学COS426](http://www.cs.princeton.edu/courses/archive/spring18/cos426/syllabus.php)
-
-
 

@@ -155,6 +155,8 @@ gitbook: 3.2.3
 description: 记录 GitBook 的配置和一些插件的使用
 ---
 
+# 常用资源
+
 [论文下载-杭州科技信息研究院](http://jeffe.cs.illinois.edu/compgeom/)
 
 [PDFcs库](https://www.pdfiles.com/)

@@ -1,11 +1,4 @@
----
-plugins:
-  - splitter
-description: 记录papalqi的日常
-gitbook: 3.2.2
----
-
-# 关于我
+# 技术日常
 
 ## Getting Super Powers
 
