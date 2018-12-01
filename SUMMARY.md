@@ -2,11 +2,21 @@
 
 * [关于我](README.md)
 * [技术日常](chapter1.md)
+  * [语言](chapter1/yu-yan.md)
+    * [python](chapter1/yu-yan/python.md)
+      * 在VS中安装pyhton
+    * [C++](chapter1/yu-yan/c++.md)
+  * [数据库](chapter1/shu-ju-ku.md)
+    * [oracle](chapter1/shu-ju-ku/oracle.md)
+  * [关于IDE](chapter1/guan-yu-ide.md)
+    * Visual Studio
 * [游戏世界](you-xi-shi-jie.md)
   * [关于steam](guan-yu-steam.md)
   * [游戏引擎](you-xi-yin-qing.md)
     * [U3D](you-xi-yin-qing/u3d.md)
-    * UE4
+    * [UE4](you-xi-yin-qing/ue4.md)
+      * [UE4的代码结构](you-xi-yin-qing/ue4/ue4de-dai-ma-jie-gou.md)
+      * UE4的全景图分析
   * [游戏生涯](you-xi-sheng-ya.md)
     * 单机游戏
     * 网络游戏
@@ -14,8 +24,19 @@
 * [图形学](tu-xing-xue.md)
   * [参考文献](tu-xing-xue/can-kao-wen-xian.md)
     * [课程资源](tu-xing-xue/can-kao-wen-xian/ke-cheng.md)
-    * [论文资源](tu-xing-xue/can-kao-wen-xian/lun-wen-zi-yuan.md)
+    * [书籍资料](tu-xing-xue/can-kao-wen-xian/shu-ji-zi-liao.md)
+  * [图形API](tu-xing-xue/tu-xing-api.md)
+    * [opengl](tu-xing-xue/tu-xing-api/opengl.md)
+    * D3D
 * [计算几何](ji-suan-ji-he.md)
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
+  * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
+  * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
+  * [常用库](ji-suan-ji-he/chang-yong-ku.md)
+    * CGAL
+    * Clipper
+    * Poly2Tri
+  * [常见问题](ji-suan-ji-he/chang-jian-wen-ti.md)
+    * 关于三角剖分
 * [常用资源](chang-yong-zi-yuan.md)
 
