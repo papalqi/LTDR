@@ -3,5 +3,5 @@
 * [关于我](README.md)
 * [技术日常](chapter1.md)
 * 游戏世界
-* 文学作品
+* [文学作品](wen-xue-zuo-pin.md)
 
