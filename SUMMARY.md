@@ -20,7 +20,7 @@
   * [游戏生涯](you-xi-shi-jie/you-xi-sheng-ya/README.md)
     * [单机游戏](you-xi-shi-jie/you-xi-sheng-ya/dan-ji-you-xi.md)
     * [网络游戏](you-xi-shi-jie/you-xi-sheng-ya/wang-luo-you-xi.md)
-* [文学作品](wen-xue-zuo-pin.md)
+* [指点江山](wen-xue-zuo-pin.md)
 * [图形学](tu-xing-xue/README.md)
   * [参考文献](tu-xing-xue/can-kao-wen-xian/README.md)
     * [课程资源](tu-xing-xue/can-kao-wen-xian/ke-cheng.md)
