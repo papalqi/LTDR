@@ -15,6 +15,8 @@
       * [代码重用](chapter1/yu-yan/c++/dai-ma-zhong-yong.md)
       * [类继承](chapter1/yu-yan/c++/lei-ji-cheng.md)
       * [类和动态内存分配](chapter1/yu-yan/c++/lei-he-dong-tai-nei-cun-fen-pei.md)
+      * [使用类](chapter1/yu-yan/c++/shi-yong-lei.md)
+      * [内存模型和名称空间](chapter1/yu-yan/c++/nei-cun-mo-xing-he-ming-cheng-kong-jian.md)
   * [关于IDE](chapter1/guan-yu-ide/README.md)
     * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
 * [游戏世界](you-xi-shi-jie/README.md)
