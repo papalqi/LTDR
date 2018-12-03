@@ -8,6 +8,7 @@
     * [python](chapter1/yu-yan/python/README.md)
       * [在VS中安装pyhton](chapter1/yu-yan/python/zai-vs-zhong-an-zhuang-pyhton.md)
     * [C++](chapter1/yu-yan/c++.md)
+      * [C++11的新功能](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
   * [关于IDE](chapter1/guan-yu-ide/README.md)
     * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
 * [游戏世界](you-xi-shi-jie/README.md)
