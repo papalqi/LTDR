@@ -1,10 +1,10 @@
 # 计算几何
 
-## 15.0.0 - 2042-12-03
 
-### Fixed
 
-* Removed humans, they weren't doing fine with animals.
+### 组成
+
+* 在计算几何当中，会用到大量的离散数学，线性代数，和其他自身的常见知识体系。
 
 ### Changed
 
