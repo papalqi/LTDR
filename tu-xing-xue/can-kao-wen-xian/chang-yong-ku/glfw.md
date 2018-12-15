@@ -7,10 +7,12 @@ https://www.glfw.org/
 最古老的。没有维护，可怕的许可证。不建议。
 ##FreeGlut，
 相同的API，但开源。
+http://freeglut.sourceforge.net/
 ##SDL
 我认为这个很奇怪，但有些人喜欢它。
+http://www.libsdl.org/
 ##SFML
-包括咖啡机，洗衣机和手机。
+https://www.sfml-dev.org/index-fr.php
 
 
 
