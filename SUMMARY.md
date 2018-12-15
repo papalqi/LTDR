@@ -42,6 +42,8 @@
     * [opengl的窗口库](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/glfw.md)
     * [数学库](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/shu-xue-ku.md)
     * [扩展加载](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/kuo-zhan-jia-zai.md)
+    * [物理](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/wu-li.md)
+    * [图像加载](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/tu-xiang-jia-zai.md)
 * [计算几何](ji-suan-ji-he/README.md)
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
   * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
