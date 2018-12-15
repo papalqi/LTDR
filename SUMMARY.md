@@ -42,6 +42,8 @@
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
   * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
   * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
+    * [对偶和转置](ji-suan-ji-he/xian-xing-dai-shu/dui-ou-he-zhuan-zhi.md)
+    * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
   * [凸包问题](ji-suan-ji-he/tu-bao-wen-ti.md)
   * [常用库](ji-suan-ji-he/chang-yong-ku/README.md)
     * [CGAL](ji-suan-ji-he/chang-yong-ku/cgal.md)
