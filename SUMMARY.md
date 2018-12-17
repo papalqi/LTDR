@@ -58,5 +58,6 @@
   * [常见问题](ji-suan-ji-he/chang-jian-wen-ti/README.md)
     * [关于三角剖分](ji-suan-ji-he/chang-jian-wen-ti/guan-yu-san-jiao-pou-fen.md)
 * [常用资源](chang-yong-zi-yuan.md)
+  * [算法](chang-yong-zi-yuan/suan-fa.md)
 * [人类学](ren-lei-xue.md)
 

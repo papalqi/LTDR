@@ -6,5 +6,7 @@
 
 [麻省理工计算几何2003](https://ocw.mit.edu/courses/mechanical-engineering/2-158j-computational-geometry-spring-2003/index.htm)
 
+纽约大学几何研讨会
+https://math.nyu.edu/seminars/geometry_seminar.html
 [计算几何资源页（1999年前）](http://jeffe.cs.illinois.edu/compgeom/)
 
