@@ -11,7 +11,7 @@
 9. 
 10. [CMU游戏引擎编程](http://graphics.cs.cmu.edu/courses/16-465-s15/)
 11. [CMU图形和成像架构](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/)
-12. [普林斯顿大学高级计算机图形学COS526](http://www.cs.princeton.edu/courses/archive/fall18/cos526/outline.html)
+12. 
 13. [普林斯顿大学图像处理的进展COS597C](http://www.cs.princeton.edu/courses/archive/fall17/cos597C/outline.html)
 14. [普林斯顿大学图形和视觉的深度学习CS302](http://www.cs.princeton.edu/courses/archive/spring17/cos598F/)
 15. 
@@ -34,10 +34,18 @@
 
 高级计算机图形学
 * https://github.com/danielepanozzo/cg 纽约大学
+* [普林斯顿大学高级计算机图形学COS526](http://www.cs.princeton.edu/courses/archive/fall18/cos526/outline.html)
+
 
 
 几何建模
 * https://github.com/danielepanozzo/gp 纽约大学
+
+计算数学，离散数学
+https://www.clear.rice.edu/comp280/10spring/schedule.html 莱斯大学
+
+算法
+https://www.cs.rice.edu/~sc40/COMP382/ 莱斯大学
 
 
 
