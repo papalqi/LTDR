@@ -15,4 +15,8 @@
 13. [普林斯顿大学图像处理的进展COS597C](http://www.cs.princeton.edu/courses/archive/fall17/cos597C/outline.html)
 14. [普林斯顿大学图形和视觉的深度学习CS302](http://www.cs.princeton.edu/courses/archive/spring17/cos598F/)
 15. [普林斯顿大学计算机图形学COS426](http://www.cs.princeton.edu/courses/archive/spring18/cos426/syllabus.php)
+16. [南加州大学计算机图形学](http://www.hao-li.com/Hao_Li/Hao_Li_-_teaching_%5BCSCI_420__Computer_Graphics_FS_2018%5D.html)
+17. [南加州大学mesh处理](http://www.hao-li.com/Hao_Li/Hao_Li_-_teaching_%5BCSCI_621__Digital_Geometry_Processing_SS_2018%5D.html)
+
+
 
