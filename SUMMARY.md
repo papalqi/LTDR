@@ -61,4 +61,7 @@
 * [常用资源](chang-yong-zi-yuan.md)
   * [算法](chang-yong-zi-yuan/suan-fa.md)
 * [人类学](ren-lei-xue.md)
+* [数学基础](shu-xue-ji-chu.md)
+  * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
+    * 期望
 
