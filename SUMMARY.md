@@ -78,7 +78,8 @@
     * 图论
   * [高等数学](shu-xue-ji-chu/gao-deng-shu-xue.md)
     * 微分中值定理
-    * 积分
+    * [积分](shu-xue-ji-chu/gao-deng-shu-xue/ji-fen.md)
+      * [积分的性质](shu-xue-ji-chu/gao-deng-shu-xue/ji-fen/ji-fen-de-xing-zhi.md)
     * 微分方程
     * 空间曲线
     * 空间曲面
