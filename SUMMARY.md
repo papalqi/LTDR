@@ -63,8 +63,8 @@
     * [方差](shu-xue-ji-chu/gai-lv-lun/fang-cha.md)
     * [方差分析与回归分析](shu-xue-ji-chu/gai-lv-lun/fang-cha-fen-xi-yu-hui-gui-fen-xi.md)
     * 极限定理
-    * 离散型随机变量
-    * 连续性随机变量
+    * [离散型随机变量](shu-xue-ji-chu/gai-lv-lun/li-san-xing-sui-ji-bian-liang.md)
+    * [连续性随机变量](shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)
     * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
   * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
     * 行列式
