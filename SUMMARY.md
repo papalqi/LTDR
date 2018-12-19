@@ -60,11 +60,12 @@
 * [数学基础](shu-xue-ji-chu.md)
   * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
     * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)
-    * 方差分析与回归分析
+    * [方差](shu-xue-ji-chu/gai-lv-lun/fang-cha.md)
+    * [方差分析与回归分析](shu-xue-ji-chu/gai-lv-lun/fang-cha-fen-xi-yu-hui-gui-fen-xi.md)
     * 极限定理
-    * 方差
     * 离散型随机变量
     * 连续性随机变量
+    * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
   * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
     * 行列式
     * [矩阵](ji-suan-ji-he/xian-xing-dai-shu/ju-zhen.md)
