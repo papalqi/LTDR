@@ -72,6 +72,27 @@
       * [对偶和转置](ji-suan-ji-he/xian-xing-dai-shu/dui-ou-he-zhuan-zhi.md)
       * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
   * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
+    * 纠错码
+    * 自动机
+    * 图论
   * [高等数学](shu-xue-ji-chu/gao-deng-shu-xue.md)
-  * 复变函数
+    * 微分中值定理
+    * 积分
+    * 微分方程
+    * 空间曲线
+    * 空间曲面
+    * 多元函数
+    * 无穷级数
+  * [复变函数](shu-xue-ji-chu/fu-bian-han-shu.md)
+    * 复数
+    * 复变函数
+    * 级数
+    * 留数
+    * Fourier变换
+    * Laplace变换
+  * [空间几何](shu-xue-ji-chu/kong-jian-ji-he.md)
+    * 向量
+    * 曲面
+  * 进阶概念
+    * 傅里叶
 
