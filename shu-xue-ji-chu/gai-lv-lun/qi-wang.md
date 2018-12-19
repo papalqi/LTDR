@@ -2,10 +2,14 @@
 >在概率论和统计学中是试验中每次可能结果的概率乘以其结果的总和，是最基本的数学特征之一。它反映随机变量平均取值的大小。
 通常是使用E(X)来标识
 
+___
+
 ###1定义
 [对于离散型随机变量](/shu-xue-ji-chu/gai-lv-lun/li-san-xing-sui-ji-bian-liang.md)：$$E(x)=\sum_{k=1}^{\infty}{x_{k}p_{k}}$$
 
+
 [对于连续性随机变量](/shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)：$$E(x)=\int_{-\infty}^{\infty}{xf(x)}dx$$
+___
 ###2性质
 ####2.1线性
 先看离散的
@@ -23,7 +27,7 @@ $$E(XY)=E(X)E(Y)$$
 
 [对于连续性随机变量](/shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)：$$E(x)=\int_{-\infty}^{\infty}{xf(x)}dx$$
 
-
+___
 ###3思考
 因为实际中[概率密度函数](/shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)很难求，期望往往是其中一个未知的参数。
 ####3.1数学期望和均值（mean）

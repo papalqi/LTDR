@@ -61,11 +61,11 @@
   * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
     * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)
     * [方差](shu-xue-ji-chu/gai-lv-lun/fang-cha.md)
-    * [方差分析与回归分析](shu-xue-ji-chu/gai-lv-lun/fang-cha-fen-xi-yu-hui-gui-fen-xi.md)
     * 极限定理
+    * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
     * [离散型随机变量](shu-xue-ji-chu/gai-lv-lun/li-san-xing-sui-ji-bian-liang.md)
     * [连续性随机变量](shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)
-    * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
+    * [方差分析与回归分析](shu-xue-ji-chu/gai-lv-lun/fang-cha-fen-xi-yu-hui-gui-fen-xi.md)
   * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
     * 行列式
     * [矩阵](ji-suan-ji-he/xian-xing-dai-shu/ju-zhen.md)
@@ -96,5 +96,5 @@
     * 向量
     * 曲面
   * 进阶概念
-    * 傅里叶
+    * [傅里叶](shu-xue-ji-chu/fu-li-xie.md)
 
