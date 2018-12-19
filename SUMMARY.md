@@ -47,10 +47,6 @@
     * [图像加载](tu-xing-xue/can-kao-wen-xian/chang-yong-ku/tu-xiang-jia-zai.md)
 * [计算几何](ji-suan-ji-he/README.md)
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
-  * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
-  * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
-    * [对偶和转置](ji-suan-ji-he/xian-xing-dai-shu/dui-ou-he-zhuan-zhi.md)
-    * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
   * [凸包问题](ji-suan-ji-he/tu-bao-wen-ti.md)
   * [常用库](ji-suan-ji-he/chang-yong-ku/README.md)
     * [CGAL](ji-suan-ji-he/chang-yong-ku/cgal.md)
@@ -63,5 +59,19 @@
 * [人类学](ren-lei-xue.md)
 * [数学基础](shu-xue-ji-chu.md)
   * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
-    * 期望
+    * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)
+    * 方差分析与回归分析
+    * 极限定理
+    * 方差
+    * 离散型随机变量
+    * 连续性随机变量
+  * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
+    * 行列式
+    * [矩阵](ji-suan-ji-he/xian-xing-dai-shu/ju-zhen.md)
+      * 矩阵运算
+      * [对偶和转置](ji-suan-ji-he/xian-xing-dai-shu/dui-ou-he-zhuan-zhi.md)
+      * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
+  * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
+  * [高等数学](shu-xue-ji-chu/gao-deng-shu-xue.md)
+  * 复变函数
 
