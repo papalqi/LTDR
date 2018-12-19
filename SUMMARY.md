@@ -84,7 +84,9 @@
     * 空间曲线
     * 空间曲面
     * 多元函数
-    * 无穷级数
+    * [无穷级数](shu-xue-ji-chu/gao-deng-shu-xue/wu-qiong-ji-shu.md)
+    * [级数](shu-xue-ji-chu/gao-deng-shu-xue/ji-shu.md)
+      * [三角级数](shu-xue-ji-chu/gao-deng-shu-xue/ji-shu/san-jiao-ji-shu.md)
   * [复变函数](shu-xue-ji-chu/fu-bian-han-shu.md)
     * 复数
     * 复变函数
@@ -96,7 +98,10 @@
     * 向量
     * 曲面
   * 进阶概念
-    * [傅里叶](shu-xue-ji-chu/fu-li-xie.md)
-      * 傅里叶级数
-      * 傅里叶变换
+    * [傅里叶（Fourier ）](shu-xue-ji-chu/fu-li-xie.md)
+      * [傅里叶级数（Fourier series）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-ji-shu.md)
+      * [傅里叶变换（Fourier transform）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-bian-huan.md)
+    * [本征值的深入理解](shu-xue-ji-chu/ben-zheng-zhi-de-shen-ru-li-jie.md)
+  * 数学思维
+    * reduction
 
