@@ -2,7 +2,9 @@
 
 * [关于我](README.md)
 * [C++](chapter1/yu-yan/c++.md)
-  * [C++11的新功能](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
+  * [C++11特性](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
+  * [C++14特性](chapter1/yu-yan/c++/c++14te-xing.md)
+  * [C++17特性](chapter1/yu-yan/c++/c++17te-xing.md)
   * [c++的输入和输出](chapter1/yu-yan/c++/cde-shu-ru-he-shu-chu.md)
   * [string类和STL](chapter1/yu-yan/c++/stringlei-he-stl.md)
     * [原生字符串（raw string literals）](chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
