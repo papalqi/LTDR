@@ -27,3 +27,5 @@
 ![](/assets/8326cffc1e178a823a8d3f7efc03738da877e8bf.png)
 ###不同分布的中心极限定理
 ![![](/assets/6159252dd42a283485009bd551b5c9ea14cebf4e.pn](/assets/6f061d950a7b0208fc439b3f68d9f2d3562cc862.png)g)
+
+**关于重心定理的应用，以后总之是会用到 **
