@@ -74,8 +74,8 @@
       * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
   * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
     * 纠错码
-    * 自动机
-    * 图论
+    * [自动机](ji-suan-ji-he/li-san-shu-xue/zi-dong-ji.md)
+    * [图论](ji-suan-ji-he/li-san-shu-xue/tu-lun.md)
   * [高等数学](shu-xue-ji-chu/gao-deng-shu-xue.md)
     * 微分中值定理
     * [积分](shu-xue-ji-chu/gao-deng-shu-xue/ji-fen.md)
