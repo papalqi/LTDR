@@ -4,9 +4,9 @@
 
 * long long，unsigned long long，支持64位的整形
 
-* char16\_t char32\_t支持16位和32位的字符表示。
+* char16\_t char32\_t支持16位和32位的字符表示。（[其它参见](/chapter1/yu-yan/python/bian-cheng-yu-yan-zhong-de-wei-shu.md)）
 
-* 还新增了原始的字符串
+* 还新增了[原生字符串](/chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
 
 
 ## 统一的初始化

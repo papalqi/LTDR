@@ -5,6 +5,7 @@
   * [C++11的新功能](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
   * [c++的输入和输出](chapter1/yu-yan/c++/cde-shu-ru-he-shu-chu.md)
   * [string类和STL](chapter1/yu-yan/c++/stringlei-he-stl.md)
+    * [原生字符串（raw string literals）](chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
   * [友元、异常和其他](chapter1/yu-yan/c++/you-yuan-3001-yi-chang-he-qi-ta.md)
   * [代码重用](chapter1/yu-yan/c++/dai-ma-zhong-yong.md)
   * [类继承](chapter1/yu-yan/c++/lei-ji-cheng.md)
@@ -17,10 +18,10 @@
   * [语言](chapter1/yu-yan/README.md)
     * [python](chapter1/yu-yan/python/README.md)
       * [在VS中安装pyhton](chapter1/yu-yan/python/zai-vs-zhong-an-zhuang-pyhton.md)
-    * 计算机原理
-      * [编程语言中的位数](chapter1/yu-yan/python/bian-cheng-yu-yan-zhong-de-wei-shu.md)
   * [关于IDE](chapter1/guan-yu-ide/README.md)
     * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
+* 计算机原理
+  * [编程语言中的位数](chapter1/yu-yan/python/bian-cheng-yu-yan-zhong-de-wei-shu.md)
 * [游戏世界](you-xi-shi-jie/README.md)
   * [关于steam](you-xi-shi-jie/guan-yu-steam.md)
   * [游戏引擎](you-xi-shi-jie/you-xi-yin-qing/README.md)
