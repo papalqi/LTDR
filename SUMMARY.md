@@ -61,7 +61,7 @@
   * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
     * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)
     * [方差](shu-xue-ji-chu/gai-lv-lun/fang-cha.md)
-    * 极限定理
+    * [极限定理](shu-xue-ji-chu/gai-lv-lun/ji-xian-ding-li.md)
     * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
     * [离散型随机变量](shu-xue-ji-chu/gai-lv-lun/li-san-xing-sui-ji-bian-liang.md)
     * [连续性随机变量](shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)
@@ -97,7 +97,7 @@
   * [空间几何](shu-xue-ji-chu/kong-jian-ji-he.md)
     * 向量
     * 曲面
-  * 进阶概念
+  * [进阶概念](shu-xue-ji-chu/jin-jie-gai-nian.md)
     * [傅里叶（Fourier ）](shu-xue-ji-chu/fu-li-xie.md)
       * [傅里叶级数（Fourier series）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-ji-shu.md)
       * [傅里叶变换（Fourier transform）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-bian-huan.md)
