@@ -9,3 +9,5 @@ C标准只规定了short至少16位，long至少32位，long long 至少64位，
 |int|int的长度没有确定的规范，这和机器的字有关系，取值一定是在2或4|N|N|
 |long （int）|一定是long int的一半，所以一定是32bit|4|4|
 |long long （int） |它仅仅只为64位系统而生，所以它的长度只能是64bit|8|8|
+|float ||4|4|
+|double||8|8|
