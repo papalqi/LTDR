@@ -1,6 +1,54 @@
 # Summary
 
 * [关于我](README.md)
+* [数学基础](shu-xue-ji-chu.md)
+  * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
+    * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)
+    * [方差](shu-xue-ji-chu/gai-lv-lun/fang-cha.md)
+    * [极限定理](shu-xue-ji-chu/gai-lv-lun/ji-xian-ding-li.md)
+    * [概率密度函数](shu-xue-ji-chu/gai-lv-lun/gai-lv-mi-du-han-shu.md)
+    * [离散型随机变量](shu-xue-ji-chu/gai-lv-lun/li-san-xing-sui-ji-bian-liang.md)
+    * [连续性随机变量](shu-xue-ji-chu/gai-lv-lun/lian-xu-xing-sui-ji-bian-liang.md)
+    * [方差分析与回归分析](shu-xue-ji-chu/gai-lv-lun/fang-cha-fen-xi-yu-hui-gui-fen-xi.md)
+  * [线性代数](ji-suan-ji-he/xian-xing-dai-shu.md)
+    * [行列式](ji-suan-ji-he/xian-xing-dai-shu/xing-lie-shi.md)
+    * [矩阵](ji-suan-ji-he/xian-xing-dai-shu/ju-zhen.md)
+      * 矩阵运算
+      * [对偶和转置](ji-suan-ji-he/xian-xing-dai-shu/dui-ou-he-zhuan-zhi.md)
+      * [正交矩阵](ji-suan-ji-he/xian-xing-dai-shu/zheng-jiao-ju-zhen.md)
+    * 微分方程和线性代数
+  * [离散数学](ji-suan-ji-he/li-san-shu-xue.md)
+    * 纠错码
+    * [自动机](ji-suan-ji-he/li-san-shu-xue/zi-dong-ji.md)
+    * [图论](ji-suan-ji-he/li-san-shu-xue/tu-lun.md)
+  * [高等数学](shu-xue-ji-chu/gao-deng-shu-xue.md)
+    * 微分中值定理
+    * [积分](shu-xue-ji-chu/gao-deng-shu-xue/ji-fen.md)
+      * [积分的性质](shu-xue-ji-chu/gao-deng-shu-xue/ji-fen/ji-fen-de-xing-zhi.md)
+    * 微分方程
+    * 空间曲线
+    * 空间曲面
+    * 多元函数
+    * [无穷级数](shu-xue-ji-chu/gao-deng-shu-xue/wu-qiong-ji-shu.md)
+    * [级数](shu-xue-ji-chu/gao-deng-shu-xue/ji-shu.md)
+      * [三角级数](shu-xue-ji-chu/gao-deng-shu-xue/ji-shu/san-jiao-ji-shu.md)
+  * [复变函数](shu-xue-ji-chu/fu-bian-han-shu.md)
+    * 复数
+    * 复变函数
+    * 级数
+    * 留数
+    * Fourier变换
+    * Laplace变换
+  * [空间几何](shu-xue-ji-chu/kong-jian-ji-he.md)
+    * 向量
+    * 曲面
+  * [进阶概念](shu-xue-ji-chu/jin-jie-gai-nian.md)
+    * [傅里叶（Fourier ）](shu-xue-ji-chu/fu-li-xie.md)
+      * [傅里叶级数（Fourier series）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-ji-shu.md)
+      * [傅里叶变换（Fourier transform）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-bian-huan.md)
+    * [本征值的深入理解](shu-xue-ji-chu/ben-zheng-zhi-de-shen-ru-li-jie.md)
+  * 数学思维
+    * reduction
 * [C++](chapter1/yu-yan/c++.md)
   * [C++11特性](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
   * [C++14特性](chapter1/yu-yan/c++/c++14te-xing.md)
@@ -18,15 +66,24 @@
     * [代码重用](chapter1/yu-yan/c++/dai-ma-zhong-yong.md)
   * [语法糖](chapter1/yu-yan/c++/yu-fa-tang.md)
     * [C++的初始化](chapter1/yu-yan/c++/yu-fa-tang/cde-chu-shi-hua.md)
-* [技术日常](chapter1/README.md)
+  * [关键字](chapter1/yu-yan/c++/guan-jian-zi.md)
+    * [const](chapter1/yu-yan/c++/guan-jian-zi/const.md)
+* [技术](chapter1/README.md)
   * [数据库](chapter1/shu-ju-ku/README.md)
     * [oracle](chapter1/shu-ju-ku/oracle.md)
+    * [数据库类型](chapter1/shu-ju-ku/shu-ju-ku-lei-xing.md)
   * [语言](chapter1/yu-yan/README.md)
     * [python](chapter1/yu-yan/python/README.md)
       * [在VS中安装pyhton](chapter1/yu-yan/python/zai-vs-zhong-an-zhuang-pyhton.md)
   * [关于IDE](chapter1/guan-yu-ide/README.md)
     * [Visual Studio](chapter1/guan-yu-ide/visual-studio.md)
-* 计算机原理
+* [计算机基础](ji-suan-ji-yuan-li.md)
+  * [操作系统](chapter1/yu-yan/python/cao-zuo-xi-tong.md)
+  * [计算机原理](chapter1/yu-yan/python/ji-suan-ji-yuan-li.md)
+  * [计算机网络](chapter1/yu-yan/python/ji-suan-ji-wang-luo.md)
+  * [编译原理](chapter1/yu-yan/python/bian-yi-yuan-li.md)
+  * [数据结构](chapter1/yu-yan/python/shu-ju-jie-gou.md)
+  * [算法](chapter1/yu-yan/python/suan-fa.md)
   * [编程语言中的位数](chapter1/yu-yan/python/bian-cheng-yu-yan-zhong-de-wei-shu.md)
 * [游戏世界](you-xi-shi-jie/README.md)
   * [关于steam](you-xi-shi-jie/guan-yu-steam.md)
@@ -53,6 +110,7 @@
     * [大学课程](tu-xing-xue/can-kao-wen-xian/ke-cheng.md)
     * [书籍资料](tu-xing-xue/can-kao-wen-xian/shu-ji-zi-liao.md)
     * [siggraph class](tu-xing-xue/can-kao-wen-xian/siggraph-class.md)
+  * [深度图形学专栏](tu-xing-xue/can-kao-wen-xian/shen-du-tu-xing-xue-zhuan-lan.md)
 * [计算几何](ji-suan-ji-he/README.md)
   * [参考网址](ji-suan-ji-he/can-kao-wang-zhi.md)
   * [凸包问题](ji-suan-ji-he/tu-bao-wen-ti.md)
@@ -64,9 +122,6 @@
     * [关于三角剖分](ji-suan-ji-he/chang-jian-wen-ti/guan-yu-san-jiao-pou-fen.md)
 * [常用资源](chang-yong-zi-yuan.md)
   * [算法](chang-yong-zi-yuan/suan-fa.md)
-* [人文社科](ren-lei-xue.md)
-  * [中世纪](ren-lei-xue/zhong-shi-ji.md)
-  * [文学作品](wen-xue-zuo-pin.md)
 * [数学基础](shu-xue-ji-chu.md)
   * [概率论](shu-xue-ji-chu/gai-lv-lun.md)
     * [期望](shu-xue-ji-chu/gai-lv-lun/qi-wang.md)

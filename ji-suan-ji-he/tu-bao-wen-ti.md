@@ -38,11 +38,5 @@
 * Coherence，选择的方式是在于，找到其中的角度最小的那个点。
     * 主要的方式其实就是，先引入的点和接下来的点做To_Left_\_Test
 
-## 14.0.0 - 2042-10-06
-
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
-
 
 
