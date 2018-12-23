@@ -19,6 +19,6 @@ Hald-Edeg：
         twin;引用
         ori;//起始点
         inc;//左侧的面face
-        pred;
-        
+        pred;//前驱
+        succ；//后继
         }
