@@ -22,3 +22,9 @@ Hald-Edeg：
         pred;//前驱
         succ；//后继
         }
+Vertex:
+        {
+        id；
+        x&y;
+        inc;
+        }
