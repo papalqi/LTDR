@@ -124,6 +124,10 @@
     * [Poly2Tri](ji-suan-ji-he/chang-yong-ku/poly2tri.md)
   * [常见问题](ji-suan-ji-he/chang-jian-wen-ti/README.md)
     * [关于三角剖分](ji-suan-ji-he/chang-jian-wen-ti/guan-yu-san-jiao-pou-fen.md)
+  * [Voronoi Diagram  ](ji-suan-ji-he/voronoi-diagram.md)
+    * 介绍
+    * [性质](ji-suan-ji-he/voronoi-diagram/xing-zhi.md)
+    * [数据结构](ji-suan-ji-he/voronoi-diagram/shu-ju-jie-gou.md)
 * [常用资源](chang-yong-zi-yuan.md)
   * [算法](chang-yong-zi-yuan/suan-fa.md)
 * [数学基础](shu-xue-ji-chu.md)
