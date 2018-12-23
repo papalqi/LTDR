@@ -12,4 +12,13 @@ repersenting VD
 2.查找
 3.遍历
 DCEL：
-TWin Edges:
+TWin Edges
+Hald-Edeg：
+        {
+        id;
+        twin;引用
+        ori;//起始点
+        inc;//左侧的面face
+        pred;
+        
+        }
