@@ -26,5 +26,12 @@ Vertex:
         {
         id；
         x&y;
-        inc;
+        inc;//第一条向外发出的边
+        }
+        
+Face;
+        {
+        id;
+        inc;//第一条边
+        
         }
