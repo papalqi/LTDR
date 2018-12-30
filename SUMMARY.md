@@ -86,6 +86,7 @@
     * [异常处理](chapter1/yu-yan/c++/guan-jian-zi/yi-chang-chu-li.md)
   * [指针](chapter1/yu-yan/c++/zhi-zhen.md)
     * [指针和引用](chapter1/yu-yan/c++/zhi-zhen/zhi-zhen-he-yin-yong.md)
+    * [指针关键字](chapter1/yu-yan/c++/zhi-zhen/zhi-zhen-guan-jian-zi.md)
   * [内存管理](chapter1/yu-yan/c++/nei-cun-guan-li.md)
     * 内存解除
     * [内存模型和名称空间](chapter1/yu-yan/c++/nei-cun-mo-xing-he-ming-cheng-kong-jian.md)
