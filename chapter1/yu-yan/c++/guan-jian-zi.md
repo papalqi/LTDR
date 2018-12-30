@@ -18,4 +18,4 @@
 
 
 当然还有很多没有分类的关键字 ：
-1.指针相关
+1.[指针相关](/chapter1/yu-yan/c++/zhi-zhen/zhi-zhen-guan-jian-zi.md)
