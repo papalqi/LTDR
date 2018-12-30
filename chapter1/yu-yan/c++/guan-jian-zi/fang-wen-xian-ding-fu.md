@@ -1,0 +1,1 @@
+this，friend，virtual，mutable，explicit，operator

@@ -1,0 +1,1 @@
+auto，register，static，extern，thread_local，mutable

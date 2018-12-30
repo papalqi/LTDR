@@ -1,0 +1,1 @@
+struct，union，enum，class，typedef

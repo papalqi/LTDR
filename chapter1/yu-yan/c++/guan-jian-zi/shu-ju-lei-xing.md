@@ -1,0 +1,1 @@
+void，int，char，float，double，bool，w_char
