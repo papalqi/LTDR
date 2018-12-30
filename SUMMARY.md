@@ -50,13 +50,15 @@
   * 数学思维
     * reduction
 * [C++](chapter1/yu-yan/c++.md)
+  * [基础概念](chapter1/yu-yan/c++/ji-chu-gai-nian.md)
+    * [值的类型value category](chapter1/yu-yan/c++/ji-chu-gai-nian/zhi-de-lei-xing.md)
+  * [STL](chapter1/yu-yan/c++/stringlei-he-stl.md)
+    * [原生字符串（raw string literals）](chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
   * [新特性](chapter1/yu-yan/c++/xin-te-xing.md)
     * [c98](chapter1/yu-yan/c++/c98.md)
     * [C++17特性](chapter1/yu-yan/c++/c++17te-xing.md)
     * [C++14特性](chapter1/yu-yan/c++/c++14te-xing.md)
     * [C++11特性](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
-  * [STL](chapter1/yu-yan/c++/stringlei-he-stl.md)
-    * [原生字符串（raw string literals）](chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
   * [输入输出](chapter1/yu-yan/c++/cde-shu-ru-he-shu-chu.md)
   * [异常处理](chapter1/yu-yan/c++/you-yuan-3001-yi-chang-he-qi-ta.md)
   * [类](chapter1/yu-yan/c++/lei.md)
