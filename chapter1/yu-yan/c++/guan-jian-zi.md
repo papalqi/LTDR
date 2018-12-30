@@ -12,6 +12,11 @@
 运算符：sizeof，and，and_eq，bitand，bitor，compl，not，not_eq，or，or_eq，xor，xor_eq
 访问限定符：this，friend，virtual，mutable，explicit，operator
 类访问修饰符：private，protected，public
-模板：template，typename
+模板：template，typename，decltype
+
 命名空间：namespace，using
 异常处理：throw，try，catch
+
+
+当然还有很多没有分类的关键字 ：
+1.
