@@ -42,7 +42,7 @@
 
 ## bool
 bool - 类型，能够保存两个值之一： true或 false。sizeof （bool ）的值是实现定义的，可能与1不同。
-
+* C和c++之类的大多数语言当中都会把非0当作TRUE，而把0当作FALSE.所以一般return 0也是非常的有玄学的。
 ---
 
 
