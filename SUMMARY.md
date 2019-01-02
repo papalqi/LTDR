@@ -77,6 +77,8 @@
       * 聚合初始化
       * 参考初始化
       * 拷贝省略
+    * [C++的声明](chapter1/yu-yan/c++/yu-fa-tang/cde-sheng-ming.md)
+      * 结构化绑定声明
   * [关键字](chapter1/yu-yan/c++/guan-jian-zi.md)
     * [数据类型](chapter1/yu-yan/c++/guan-jian-zi/shu-ju-lei-xing.md)
     * [类型定义](chapter1/yu-yan/c++/guan-jian-zi/lei-xing-ding-yi.md)
@@ -112,6 +114,7 @@
 * [计算机基础](ji-suan-ji-yuan-li.md)
   * [操作系统](chapter1/yu-yan/python/cao-zuo-xi-tong.md)
   * [计算机原理](chapter1/yu-yan/python/ji-suan-ji-yuan-li.md)
+    * [IEEE754](chapter1/yu-yan/python/ji-suan-ji-yuan-li/ieee754.md)
   * [计算机网络](chapter1/yu-yan/python/ji-suan-ji-wang-luo.md)
   * [编译原理](chapter1/yu-yan/python/bian-yi-yuan-li.md)
   * [数据结构](chapter1/yu-yan/python/shu-ju-jie-gou.md)
@@ -154,7 +157,7 @@
     * [关于三角剖分](ji-suan-ji-he/chang-jian-wen-ti/guan-yu-san-jiao-pou-fen.md)
     * [LeftToTest](ji-suan-ji-he/chang-jian-wen-ti/lefttotest.md)
   * [Voronoi Diagram  ](ji-suan-ji-he/voronoi-diagram.md)
-    * 介绍
+    * [介绍](ji-suan-ji-he/voronoi-diagram/jie-shao.md)
     * [性质](ji-suan-ji-he/voronoi-diagram/xing-zhi.md)
     * [数据结构](ji-suan-ji-he/voronoi-diagram/shu-ju-jie-gou.md)
 * [常用资源](chang-yong-zi-yuan.md)
