@@ -59,7 +59,12 @@
     * [C++11特性](chapter1/yu-yan/c++/c++11de-xin-gong-neng.md)
   * [STL](chapter1/yu-yan/c++/stringlei-he-stl.md)
     * [原生字符串（raw string literals）](chapter1/yu-yan/c++/stringlei-he-stl/yuan-sheng-zi-fu-chuan.md)
-  * [输入输出](chapter1/yu-yan/c++/cde-shu-ru-he-shu-chu.md)
+    * 容器库
+    * 迭代器库
+    * [输入输出](chapter1/yu-yan/c++/cde-shu-ru-he-shu-chu.md)
+    * 算法库
+    * 数学库
+    * 线程库
   * [异常处理](chapter1/yu-yan/c++/you-yuan-3001-yi-chang-he-qi-ta.md)
   * [类](chapter1/yu-yan/c++/lei.md)
     * 类的构造函数
@@ -80,27 +85,18 @@
     * [C++的声明](chapter1/yu-yan/c++/yu-fa-tang/cde-sheng-ming.md)
       * 结构化绑定声明
   * [关键字](chapter1/yu-yan/c++/guan-jian-zi.md)
-    * [数据类型](chapter1/yu-yan/c++/guan-jian-zi/shu-ju-lei-xing.md)
-    * [类型定义](chapter1/yu-yan/c++/guan-jian-zi/lei-xing-ding-yi.md)
-    * [类型修饰符](chapter1/yu-yan/c++/guan-jian-zi/lei-xing-xiu-shi-fu.md)
-    * [类型限定符](chapter1/yu-yan/c++/guan-jian-zi/lei-xing-xian-ding-fu.md)
-      * volatile
-      * [const](chapter1/yu-yan/c++/guan-jian-zi/const.md)
-      * restrict
+    * [数据类型/修饰](chapter1/yu-yan/c++/guan-jian-zi/shu-ju-lei-xing.md)
+    * [类型定义/限定](chapter1/yu-yan/c++/guan-jian-zi/lei-xing-ding-yi.md)
     * [存储说明符](chapter1/yu-yan/c++/guan-jian-zi/cun-chu-shuo-ming-fu.md)
     * [其它修饰符](chapter1/yu-yan/c++/guan-jian-zi/qi-ta-xiu-shi-fu.md)
-    * [内存管理](chapter1/yu-yan/c++/guan-jian-zi/nei-cun-guan-li.md)
     * [运算符](chapter1/yu-yan/c++/guan-jian-zi/yun-suan-fu.md)
     * [访问限定符](chapter1/yu-yan/c++/guan-jian-zi/fang-wen-xian-ding-fu.md)
-    * [类访问修饰符](chapter1/yu-yan/c++/guan-jian-zi/lei-fang-wen-xiu-shi-fu.md)
     * [模板](chapter1/yu-yan/c++/guan-jian-zi/mo-ban.md)
-    * [命名空间](chapter1/yu-yan/c++/guan-jian-zi/ming-ming-kong-jian.md)
-    * [异常处理](chapter1/yu-yan/c++/guan-jian-zi/yi-chang-chu-li.md)
   * [指针](chapter1/yu-yan/c++/zhi-zhen.md)
     * [指针和引用](chapter1/yu-yan/c++/zhi-zhen/zhi-zhen-he-yin-yong.md)
     * [指针关键字](chapter1/yu-yan/c++/zhi-zhen/zhi-zhen-guan-jian-zi.md)
   * [内存管理](chapter1/yu-yan/c++/nei-cun-guan-li.md)
-    * 内存解除
+    * [内存解除](chapter1/yu-yan/c++/nei-cun-jie-chu.md)
     * [内存模型和名称空间](chapter1/yu-yan/c++/nei-cun-mo-xing-he-ming-cheng-kong-jian.md)
 * [技术](chapter1/README.md)
   * [数据库](chapter1/shu-ju-ku/README.md)

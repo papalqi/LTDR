@@ -43,5 +43,17 @@
 ## bool
 bool - 类型，能够保存两个值之一： true或 false。sizeof （bool ）的值是实现定义的，可能与1不同。
 
+---
 
+
+#类型修饰符
+>简单罗列
+
+##long
+
+##short
+
+##singed
+
+##unsigned   
 
