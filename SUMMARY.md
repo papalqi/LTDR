@@ -47,6 +47,7 @@
       * [傅里叶级数（Fourier series）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-ji-shu.md)
       * [傅里叶变换（Fourier transform）](shu-xue-ji-chu/fu-li-xie/fu-li-xie-bian-huan.md)
     * [本征值的深入理解](shu-xue-ji-chu/ben-zheng-zhi-de-shen-ru-li-jie.md)
+    * [Monte Carlo](shu-xue-ji-chu/monte-carlo.md)
   * 数学思维
     * reduction
 * [C++](chapter1/yu-yan/c++.md)
